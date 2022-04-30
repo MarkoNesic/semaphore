@@ -45,7 +45,7 @@ function startAll(){
 }
 
 stopAll = () => {
-
+// this should turn off all the lights
 }
 
 document.querySelector(".start").addEventListener("click", ()=> {
